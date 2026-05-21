@@ -1,0 +1,10 @@
+Maria Ramirez, apendicitis, A
+Carmen Sarmientos, dolores de parto, B
+Juan Perez, fractura de pierna, C
+Lorenzo Toledo, chikunguya, E
+Ana Lopez, fiebre alta, B
+Carlos Gomez, infarto, A
+Luis Martinez, gripe, D
+Sofia Herrera, migraña, C
+Diego Castillo, quemadura, B
+Elena Ruiz, alergia, D
